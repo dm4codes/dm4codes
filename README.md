@@ -18,7 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>     
   </div>    
 <h1 align="center">
-  Hi there , Welcome to My WORLD!
+  Hey there , Welcome to My WORLD!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>  
 
@@ -32,13 +32,13 @@
 
 ### :man_technologist::desktop_computer: About Me :
 I am a Web App Developer both Front-End & Back-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . On top of that, I am studying BSc in Computer Science.                                                                            
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Developer and contributing to both frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing and Digital Marketing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, play chess and read tech articles.
 
-- :mailbox: How to reach me : [![LinkedIn Badges]<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="david-musyoki-5720b3141" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/david-musyoki-5720b3141?trk=profile-badge">David Musyoki</a></div>]
+- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/david-musyoki-5720b3141?style=flat&logo=Linkedin&logoColor=white)]
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
