@@ -38,7 +38,7 @@ I am a Web App Developer both Front-End & Back-End <img src="https://media.giphy
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, play chess and read tech articles.
 
-- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/david-musyoki-5720b3141?style=flat&logo=Linkedin&logoColor=white)]
+- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/david-musyoki-5720b3141?style=flat&logo=Linkedin&logoColor=white)] or Contact me directly via : dm4codes@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
