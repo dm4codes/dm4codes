@@ -38,7 +38,7 @@ I am a Web App Developer both Front-End & Back-End <img src="https://media.giphy
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, play chess and read tech articles.
 
-- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/david-musyoki-5720b3141?style=flat&logo=Linkedin&logoColor=white)] or Contact me directly via : dm4codes@gmail.com
+- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-musyoki-5720b3141)](https://www.linkedin.com/in/david-musyoki-5720b3141) or Contact me directly via :mailbox: dm4codes@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -54,6 +54,10 @@ I am a Web App Developer both Front-End & Back-End <img src="https://media.giphy
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### Programming Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dm4codes&langs_count=10)](https://github.com/dm4codes/github-readme-stats)
 
 ---
 
