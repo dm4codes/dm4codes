@@ -31,7 +31,7 @@
 
 
 ### :man_technologist::desktop_computer: About Me :
-I am a Web App Developer both Front-End & Back-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . On top of that, I am studying BSc in Computer Science.                                                                            
+I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . On top of that, I am a Computer Scientist by profession.                                                                            
 - :telescope: I’m working as a Software Developer and contributing to both frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing and Digital Marketing.
