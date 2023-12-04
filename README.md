@@ -31,7 +31,7 @@
 
 
 ### :man_technologist::desktop_computer: About Me :
-I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . On top of that, I am a Computer Scientist by profession.                                                                            
+I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . Profession : B.S. Computer Scientist.                                                                            
 - :telescope: I’m working as a Software Developer and contributing to both frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing and Digital Marketing.
@@ -64,6 +64,8 @@ I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlp
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dm4codes&theme=tokyonight)](https://git.io/streak-stats)
+
+![dm4codes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm4codes&show_icons=true)
 
 
 <!--
