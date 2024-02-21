@@ -63,7 +63,7 @@ I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlp
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dm4codes&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dm4codes&theme=highcontrast)](https://git.io/streak-stats)
 
 ![dm4codes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dm4codes&show_icons=true)
 
