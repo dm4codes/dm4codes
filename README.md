@@ -4,7 +4,7 @@
 
 
 <div id="badges" align="center" margin-bottom="10">
-  <a href="https://www.linkedin.com/in/david-musyoki-5720b3141">
+  <a href="https://www.linkedin.com/in/david-musyoki">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -38,7 +38,7 @@ I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, play chess and read tech articles.
 
-- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-musyoki-5720b3141)](https://www.linkedin.com/in/david-musyoki-5720b3141) or Contact me directly via :mailbox: dm4codes@gmail.com
+- :mailbox: How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-musyoki)](https://www.linkedin.com/in/david-musyoki) or Contact me directly via :mailbox: dm4codes@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
