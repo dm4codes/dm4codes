@@ -31,8 +31,8 @@
 
 
 ### :man_technologist::desktop_computer: About Me :
-I am a Full Stack Web App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . Profession : BSc. in Computer Science.                                                                            
-- :telescope: I’m working as a Software Developer and contributing to both frontend and backend for building web applications.
+I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . Profession : BSc. in Computer Science.                                                                            
+- :telescope: I’m working as a Full Stack Software Developer and contributing to both frontend and backend for building interactive web applications.
 
 - :seedling: Exploring Technical Content Writing and Digital Marketing.
 
